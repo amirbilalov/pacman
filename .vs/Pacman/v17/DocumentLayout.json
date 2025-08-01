@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{2B700153-2732-4562-B547-18CC98B883B9}|Pacman.csproj|d:\\\u0441# july2025projects\\pacman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B700153-2732-4562-B547-18CC98B883B9}|Pacman.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B700153-2732-4562-B547-18CC98B883B9}|Pacman.csproj|d:\\\u0441# july2025projects\\pacman\\pacman.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B700153-2732-4562-B547-18CC98B883B9}|Pacman.csproj|solutionrelative:pacman.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pacman.csproj",
+              "DocumentMoniker": "D:\\\u0421# july2025projects\\Pacman\\Pacman.csproj",
+              "RelativeDocumentMoniker": "Pacman.csproj",
+              "ToolTip": "D:\\\u0421# july2025projects\\Pacman\\Pacman.csproj",
+              "RelativeToolTip": "Pacman.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-31T19:02:58.924Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\\u0421# july2025projects\\Pacman\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswA8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-31T18:35:05.101Z",
               "EditorCaption": ""

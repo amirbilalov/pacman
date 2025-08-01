@@ -1,0 +1,15 @@
+D:\С# july2025projects\Pacman\bin\Debug\net9.0\Pacman.exe
+D:\С# july2025projects\Pacman\bin\Debug\net9.0\Pacman.deps.json
+D:\С# july2025projects\Pacman\bin\Debug\net9.0\Pacman.runtimeconfig.json
+D:\С# july2025projects\Pacman\bin\Debug\net9.0\Pacman.dll
+D:\С# july2025projects\Pacman\bin\Debug\net9.0\Pacman.pdb
+D:\С# july2025projects\Pacman\obj\Debug\net9.0\Pacman.GeneratedMSBuildEditorConfig.editorconfig
+D:\С# july2025projects\Pacman\obj\Debug\net9.0\Pacman.AssemblyInfoInputs.cache
+D:\С# july2025projects\Pacman\obj\Debug\net9.0\Pacman.AssemblyInfo.cs
+D:\С# july2025projects\Pacman\obj\Debug\net9.0\Pacman.csproj.CoreCompileInputs.cache
+D:\С# july2025projects\Pacman\obj\Debug\net9.0\Pacman.sourcelink.json
+D:\С# july2025projects\Pacman\obj\Debug\net9.0\Pacman.dll
+D:\С# july2025projects\Pacman\obj\Debug\net9.0\refint\Pacman.dll
+D:\С# july2025projects\Pacman\obj\Debug\net9.0\Pacman.pdb
+D:\С# july2025projects\Pacman\obj\Debug\net9.0\Pacman.genruntimeconfig.cache
+D:\С# july2025projects\Pacman\obj\Debug\net9.0\ref\Pacman.dll
